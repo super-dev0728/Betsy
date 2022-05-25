@@ -28,9 +28,6 @@ You should now see a 'betsy.db' file appear in the current directory. You can no
 ![alt text](preview_image/betsy_preview.png "Betsy Preview image")
 
 
-## Video Demo 
-https://youtu.be/gcu0Do8sEho
-
 
 ## Usage & Details 
 A nearly identical copy of Etsy. This multivendor marketplace was built as practice for modelling and querying a database, as well as grasping how an ecommerce store may function on the backend. 
